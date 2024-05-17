@@ -1,0 +1,22 @@
+.conteudo__titulo {
+    font-size: 5em;
+    margin-left: 25px;
+    margin-top: 40px;
+    text-align: center;
+    font-family: var(--fonte-principal);
+    color: darkgoldenrod;
+}
+
+.conteudo__subtitulo {
+    font-size: 4em;
+    margin-left: 45px;
+    margin-top: 10px;
+    font-family: var(--fonte-principal);
+}
+
+.conteudo__texto {
+    font-size: 2em;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 3%;
+}

@@ -1,0 +1,18 @@
+.banner {
+    background-color: #002F52;
+    color: var(--branco);
+    text-align: center;
+    padding: 2.5em 2em;
+    font-size: 1em;
+}
+
+.banner__titulo {
+    font-size: 3em;
+    font-weight: 700;
+}
+
+.banner__texto {
+    font-weight: 500;
+    margin: 1em 0;
+    font-size: 2em;
+}
