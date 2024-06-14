@@ -1,7 +1,7 @@
 @import url(style/header.css);
 @import url(style/banner.css);
-@import url(style/carrossel.css);
-@import url(style/conteudo.css);
+@import url(he);
+@import url(conteudo.css);
 :root{
     --cor-de-fundo:#EBECEE;
     --branco: #ffffff;
