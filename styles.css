@@ -1,7 +1,6 @@
-@import url(style/header.css);
-@import url(style/banner.css);
-@import url(he);
-@import url(conteudo.css);
+@import url(muriloooo/style/conteudo.css);
+@import url(muriloooo/style/banner.css);
+@import url(muriloooo/style/header.css);
 :root{
     --cor-de-fundo:#EBECEE;
     --branco: #ffffff;
