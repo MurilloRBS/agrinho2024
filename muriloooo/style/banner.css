@@ -1,8 +1,8 @@
 .banner {
-    background-color: #002F52;
+    background-color: var(--verde);
     color: var(--branco);
     text-align: center;
-    padding: 2.5em 2em;
+    padding: 2.5em ;
     font-size: 1em;
 }
 
@@ -13,6 +13,5 @@
 
 .banner__texto {
     font-weight: 500;
-    margin: 1em 0;
     font-size: 2em;
 }

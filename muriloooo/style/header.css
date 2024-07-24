@@ -21,7 +21,7 @@
 }
 
 .container__titulo {
-    color: black
+    color: var(--verde);
 }
 
 .container__imagem{
@@ -40,7 +40,7 @@
 }
 
 .container__botao:checked~.container__rotulo {
-    background: var(--azul-degrade);
+    background: var(--verde);
 }
 
 .container__botao:checked~.lista-menu {
@@ -54,15 +54,23 @@
 }
  
 .lista-menu__titulo {
-    color: var(--laranja);
-    font-weight: 700;
+    color: var(--verde);
+   font-size: 30px;
 }
 
 .lista-menu__link {
-   column-rule: rgb(3, 3, 87);
+   column-rule: rgba(255, 255, 255, 0);
     background-clip: text;
     text-transform: uppercase;
     text-decoration: none;
+}
+
+.lista-menu__link:hover {
+    background-color: #D6D6D6;
+    color:#6D6D6D;
+    border-bottom: 3px solid rgb(98, 23, 98);
+    font-style: italic;
+    font-size: 16px;
 }
 
 .container__botao {
@@ -71,6 +79,7 @@
 
 .container__texto {
     color: black;
+    margin: 10px;
 }
 
 @media screen and (min-width: 1024px) {

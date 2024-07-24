@@ -2,21 +2,22 @@
 @import url(muriloooo/style/banner.css);
 @import url(muriloooo/style/header.css);
 :root{
-    --cor-de-fundo:#EBECEE;
-    --branco: #ffffff;
-    --laranja: #EB9B00;
-    --azul-degrade:  #002F52;
+    --cor-de-fundo: white;
+    --branco: white;
+    --verde: green;
     --preto: #000000;
-    --cinza: #474646;
-    --cinza-claro: #858585;
     --fonte-principal: "poppins";
 }
 
 body{
     background-color: var(--cor-de-fundo);
-    color: #000000;
+    color: green;
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
+}
+
+p {
+    text-indent: 50px;
 }
 
