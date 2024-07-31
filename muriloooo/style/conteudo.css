@@ -29,6 +29,14 @@
     margin-top: 3%;
 }
 
+.conteudo__texto-final{
+    font-size: 2em;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 3%;
+    color: black;
+}
+
 .conteudo__subtitulo {
     font-size: 4em;
     margin-left: 45px;
