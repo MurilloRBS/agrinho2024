@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
-@import url(muriloooo/style/conteudo.css);
-@import url(muriloooo/style/banner.css);
-@import url(muriloooo/style/header.css);
+@import url(arquivos/style/conteudo.css);
+@import url(arquivos/style/banner.css);
+@import url(arquivos/style/header.css);
 :root{
     --cor-de-fundo: white;
     --branco: white;
